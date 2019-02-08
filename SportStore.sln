@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportStore", "SportStore\SportStore.csproj", "{4FAE5F7D-D7A0-4E95-8A20-833CC8F7338A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportStore.Tests", "SportStore.Tests\SportStore.Tests.csproj", "{75E66ED6-A6BE-492E-89B5-7FDF5B3352EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FAE5F7D-D7A0-4E95-8A20-833CC8F7338A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FAE5F7D-D7A0-4E95-8A20-833CC8F7338A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FAE5F7D-D7A0-4E95-8A20-833CC8F7338A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FAE5F7D-D7A0-4E95-8A20-833CC8F7338A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75E66ED6-A6BE-492E-89B5-7FDF5B3352EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E66ED6-A6BE-492E-89B5-7FDF5B3352EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E66ED6-A6BE-492E-89B5-7FDF5B3352EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E66ED6-A6BE-492E-89B5-7FDF5B3352EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

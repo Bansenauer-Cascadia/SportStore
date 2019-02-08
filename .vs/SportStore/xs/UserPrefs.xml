@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{4FAE5F7D-D7A0-4E95-8A20-833CC8F7338A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SportStore/obj/Debug/netcoreapp2.2/Razor/Views/Product/List.g.cshtml.cs">
+    <Files>
+      <File FileName="SportStore/Program.cs" Line="17" Column="38" />
+      <File FileName="SportStore/Startup.cs" Line="42" Column="43" />
+      <File FileName="SportStore/Views/_ViewImports.cshtml" Line="3" Column="1" />
+      <File FileName="SportStore.Tests/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="SportStore.Tests/SportStore.Tests.csproj" Line="15" Column="29" />
+      <File FileName="SportStore/Models/Product.cs" Line="5" Column="25" />
+      <File FileName="SportStore/Models/IProductRepository.cs" Line="9" Column="6" />
+      <File FileName="SportStore/Models/FakeProductRepository.cs" Line="12" Column="57" />
+      <File FileName="SportStore/Controllers/ProductController.cs" Line="21" Column="63" />
+      <File FileName="SportStore/Views/Shared/_Layout.cshtml" Line="10" Column="24" />
+      <File FileName="SportStore/Views/_ViewStart.cshtml" Line="4" Column="1" />
+      <File FileName="SportStore/Views/Product/List.cshtml" Line="10" Column="2" />
+      <File FileName="SportStore/SportStore.csproj" Line="25" Column="1" />
+      <File FileName="SportStore/Models/ApplicationDbContext.cs" Line="14" Column="22" />
+      <File FileName="SportStore/Models/EFProductRepository.cs" Line="16" Column="65" />
+      <File FileName="SportStore/appsettings.json" Line="15" Column="2" />
+      <File FileName="SportStore/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="SportStore/Models/SeedData.cs" Line="84" Column="21" />
+      <File FileName="SportStore/obj/Debug/netcoreapp2.2/Razor/Views/Product/List.g.cshtml.cs" Line="23" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SportStore PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
